@@ -1,0 +1,25 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "CI/CD Typescript pushed to Docker with GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mado-bohsali/ci-cd-pipeline.git"
+  },
+  "keywords": [
+    "Docker",
+    "GitHub",
+    "Actions",
+    "CI/CD"
+  ],
+  "author": "Mohamad El Bohsaly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mado-bohsali/ci-cd-pipeline/issues"
+  },
+  "homepage": "https://github.com/mado-bohsali/ci-cd-pipeline#readme"
+}
